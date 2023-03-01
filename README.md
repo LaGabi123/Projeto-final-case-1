@@ -8,8 +8,10 @@ Node.js
 Npm
 
 COMO EXECUTAR:
+
 Npm install
-npm start ou npm run dev 
+
+Npm start ou npm run dev 
 
 Dependências BACK-END
 
