@@ -8,25 +8,23 @@ Node.js
 Npm
 
 COMO EXECUTAR:
-
 Npm install
 
 Npm start ou npm run dev 
 
-Dependências BACK-END
 
-npm install cors
+Dependências BACK-END:
+Npm install cors
 
-npm install express --save
+Npm install express --save
 
-npm install nodemon --save-dev
+Npm install nodemon --save-dev
 
-Dependências FRONT-END 
+Dependências FRONT-END:
+Npm install react-bootstrap bootstrap
 
-npm install react-bootstrap bootstrap
+Npm install react-router-dom
 
-npm install react-router-dom
-
-npm install json-server
+Npm install json-server
 
 No back-end foi utilizada a base do prisma.
