@@ -13,12 +13,15 @@ Npm install
 Npm start ou npm run dev 
 
 
+
 Dependências BACK-END:
 Npm install cors
 
 Npm install express --save
 
 Npm install nodemon --save-dev
+
+
 
 Dependências FRONT-END:
 Npm install react-bootstrap bootstrap
